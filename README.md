@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=OFFLINE&up_color=green&up_message=ONLINE&url=https%3A%2F%2Flynxbotgrup.glitch.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SAVAGEZEUS2?style=social)
-[![DMCA PROTECTED](<a href="//www.dmca.com/Protection/Status.aspx?ID=4e2885a6-74ea-428c-a8b2-f2ca0f587aea" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120l.png?ID=4e2885a6-74ea-428c-a8b2-f2ca0f587aea"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>)
+
 
 ## I'm a discord bot developer!
 
