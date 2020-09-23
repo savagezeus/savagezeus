@@ -6,8 +6,8 @@
 
 ## I'm a discord bot developer!
 
-- 🔭 I’m currently working on a discord bot!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on Website Development
+- 🌱 I’m currently learning Html and Css
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute in public js projects😄
 - ⚡ Fun fact: I love to play games and have a gaming channel 
