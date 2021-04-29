@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on Website Development
 - 🌱 I’m currently learning Html and Css
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute in public js projects😄
-- ⚡ Fun fact: I love to play games and have a gaming channel 
+- 🥅 2021 Goals: What's a GOAL? XD
+- ⚡ Fun fact: I love to play games and destroy things 👀 
 
 ### Top Spotify Picks For You 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Zeus Spotify Playing" width="350" />](https://open.spotify.com/user/m6u1n5zdrgkpbs7n2p2460980)
